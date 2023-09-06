@@ -1,5 +1,5 @@
 # iris_dataset_logistic_regerssiion
-building a model for iris data using logistic regerssion
+Building a model for iris data using logistic regerssion
 
 Logistic Regression is a supervised classification algorithm. Although the name says regression, it is a classification algorithm. Logistic regression measures the relationship between one or more independent variables (X) and the categorical dependent variable (Y) by estimating probabilities using a logistic(sigmoid) function. The term “Regression” comes because it estimates the probability of class membership or simply it is regressing for the probability of a categorical outcome.
 
